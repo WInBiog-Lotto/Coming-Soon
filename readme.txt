@@ -54,4 +54,3 @@ Javascript Files:
 ====================================================================
 
 
-Thanks for downloading from https://awaikenthemes.com
